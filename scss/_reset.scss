@@ -1,8 +1,13 @@
-p{
-    margin: 0;padding: 0;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
-h1{
-    font-size: px;
-    line-height: px;
-    line-height: 35;
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
 }

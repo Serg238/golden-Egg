@@ -57,15 +57,4 @@
 			fill="#E8C300" />
 	</symbol>
 
-
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Serg238/golden-Egg.git
-git push -u origin main
-
-
-
-
-
-
 </svg>
